@@ -26,7 +26,7 @@
 1. Clone Repo
     
     ```
-    git clone https://github.com/Dandidcee/Inery-Node-Task-4.git
+    git clone https://github.com/alteregogi/Ineryjs/tree/master/example
     ```
     
 2. Masuk Ke direktori Repo
